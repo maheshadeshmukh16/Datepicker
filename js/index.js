@@ -3,7 +3,7 @@
 (function (angular) {
   'use strict';
 
-  var app = angular.module('720kb', [
+  var app = angular.module('MMADApp', [
     'ngRoute',
     '720kb.datepicker'
   ]);
